@@ -1,6 +1,7 @@
 # SPS-11407-Movie-Ticketing-Bot
 Movie Ticketing Bot
 
+Along with the bot, we have developed a frontend also. This was done to show the difference between manual booking and booking with the help of the bot.
 
 Function of the Bot:-
 1) Give the list of movies available
