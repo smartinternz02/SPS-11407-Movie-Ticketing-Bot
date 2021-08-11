@@ -1,6 +1,8 @@
 # SPS-11407-Movie-Ticketing-Bot
 Movie Ticketing Bot
 
+Project Demo Link: https://youtu.be/jDhF80ewYQc
+
 Along with the bot, we have developed a frontend also. This was done to show the difference between manual booking and booking with the help of the bot.
 To view the website, download all the files from the github, and open "index.html".
 
